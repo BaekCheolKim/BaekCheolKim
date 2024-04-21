@@ -12,7 +12,7 @@
   <h1>Welcome to My GitHub Profile! </h1>
   <h3>I'm [Baek], a Passionate Developer</h3>
   <p>I specialize in [Machine Learning and Computer Vision].</p>
-  <img src="https://media.giphy.com/media/[YOUR GIF ID]/giphy.gif" width="300">
+  <img src="profileimage.jpg" width="300">
 </div>
 
 <hr>
