@@ -41,8 +41,8 @@ Here's what I'm currently working on:
 
 ## My GitHub Stats 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[BaekCheolKim]&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[BaekCheolKim]&theme=tokyonight" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaekCheolKim&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekCheolKim&theme=tokyonight" alt="Streak Stats">
 </div>
 
 <hr>
