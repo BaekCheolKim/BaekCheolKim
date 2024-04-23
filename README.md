@@ -7,6 +7,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/baek-cheol-kim-a83b642b6/"><img width="32px" alt="LinkedIn" title="LinkedIn"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <div align="center">
   <h1>Welcome to My GitHub Profile! </h1>
