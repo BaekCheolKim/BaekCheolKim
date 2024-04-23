@@ -10,7 +10,6 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/baek-cheol-kim-a83b642b6/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <div align="center">
