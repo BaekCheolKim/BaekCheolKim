@@ -1,10 +1,3 @@
-<!-- Social icons section -->
-<p align="center">
-  <a href="[https://www.linkedin.com/in/baek-cheol-kim-a83b642b6/](https://www.linkedin.com/in/baekcheolkim/)" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-  </a>
-</p>
-
 <div align="center">
   <h1>Welcome to My GitHub Profile!</h1>
   <h3>I'm Baek, a Passionate Machine Learning Engineer and AI Enthusiast</h3>
