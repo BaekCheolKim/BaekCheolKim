@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Welcome to My GitHub Profile!</h1>
   <h3>I'm Baek, a Passionate Machine Learning Engineer and AI Enthusiast</h3>
   <p>I specialize in <b>Machine Learning</b>, <b>Computer Vision</b> with a focus on creating scalable, real-world AI solutions.</p>
