@@ -1,6 +1,6 @@
 <div align="left">
   <h3>I'm Baek. I'm Building scalable AI & Computer Vision solutions</h3>
-  [//]<img src="profileimage.jpg" width="300" alt="My Profile Picture">
+  <!--- <img src="profileimage.jpg" width="300" alt="My Profile Picture"> --->
 </div>
 
 ---
