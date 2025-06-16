@@ -1,6 +1,6 @@
 <div align="left">
   <h3>I'm Baek. I'm Building scalable AI & Computer Vision solutions</h3>
-  <img src="profileimage.jpg" width="300" alt="My Profile Picture">
+  //<img src="profileimage.jpg" width="300" alt="My Profile Picture">
 </div>
 
 ---
@@ -22,7 +22,7 @@ I have worked on impactful projects that combine advanced AI with practical appl
 - **M.Machine Learning & Computer Vision**, ANU (2023–2025)  
 - **Key Coursework:** Machine Learning, Robotics, Deep Learning for CV  
 ---
-```
+<!---
 ---
 
 ## 📊 GitHub Stats
@@ -33,7 +33,7 @@ I have worked on impactful projects that combine advanced AI with practical appl
 </div>
 
 ---
-```
+--->
 
 ## Resume
 
