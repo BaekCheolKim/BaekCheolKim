@@ -1,5 +1,5 @@
 <div align="left">
-  <h3>I'm Baek. I'm Building scalable AI & Computer Vision solutions</h3>
+  <h3>I'm Baek. I build scalable AI & Computer Vision solutions</h3>
   <!--- <img src="profileimage.jpg" width="300" alt="My Profile Picture"> --->
 </div>
 
@@ -11,9 +11,7 @@ I have worked on impactful projects that combine advanced AI with practical appl
   A multi-channel video communication platform enhanced with **emotion detection** and **diarization prompts**.  
   This project leverages **GPT-powered NLP models** and **cloud-based scalability** with MLOps pipelines.
 
-- [**Privacy-Aware Perception System for Robotics**](#):
-  (https://baekcheolkim.github.io/docs/2portfolio/3Privacy-Aware-Perception-System-for-Robotics.html)  
-
+- [**Privacy-Aware Perception System for Robotics**](https://baekcheolkim.github.io/docs/2portfolio/3Privacy-Aware-Perception-System-for-Robotics.html):
   We propose an **End-to-End Human-Head Localisation via Body-Only Detection** model
 
 ---
