@@ -7,7 +7,7 @@
 
 ## Projects
 I have worked on impactful projects that combine advanced AI with practical applications:
-- [**AI Video Call Application**]([https://github.com/Evolutioned-Organisation/Video-Call-AI-ANU](https://baekcheolkim.github.io/docs/2portfolio/2video-call-AI-application-project.html)):  
+- [**AI Video Call Application**](https://baekcheolkim.github.io/docs/2portfolio/2video-call-AI-application-project.html):  
   A multi-channel video communication platform enhanced with **emotion detection** and **diarization prompts**.  
   This project leverages **GPT-powered NLP models** and **cloud-based scalability** with MLOps pipelines.
 
@@ -37,4 +37,4 @@ I have worked on impactful projects that combine advanced AI with practical appl
 
 ## Resume
 
-You can view or download my full resume [here](https://drive.google.com/file/d/1abcXYZ123456789/view?usp=sharing).
+You can view or download my full resume [here](https://drive.google.com/file/d/1ml3fFEnWo2E8A6e2-dM_LiHaZ-RHzF7c/view?usp=drive_link).
