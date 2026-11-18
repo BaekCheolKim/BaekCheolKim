@@ -1,38 +1,13 @@
-<div align="left">
-  <h3>I'm Baek. I build scalable AI & Computer Vision solutions</h3>
-  <!--- <img src="profileimage.jpg" width="300" alt="My Profile Picture"> --->
-</div>
+### Baek Cheol Kim · AI Application Analyst (AI/HPC)
+I analyze how LLM training and inference map onto GPU supercomputers: memory residency, parallel layouts, collective communication.
 
----
+**Featured**
+- [AI-Anatomy](https://github.com/BaekCheolKim/AI-Anatomy) ([live](https://baekcheolkim.github.io/AI-Anatomy/)): per-GPU memory, data/tensor/pipeline/expert/context-parallel layouts and collective volumes for Llama 3.1 8B/70B/405B, Mixtral 8x7B and DeepSeek-V3, computed from published configs.
+- [Privacy-aware head localization](https://baekcheolkim.github.io/docs/2portfolio/3Privacy-Aware-Perception-System-for-Robotics.html): body-only detection; 63% precision / 71% recall on CrowdHuman.
+- [Video Call AI](https://baekcheolkim.github.io/docs/2portfolio/2video-call-AI-application-project.html): real-time coaching prompts from live captions (Azure Communication Services, Azure OpenAI, Flask).
 
-## Projects
-I have worked on impactful projects that combine advanced AI with practical applications:
-- [**AI Video Call Application**](https://baekcheolkim.github.io/docs/2portfolio/2video-call-AI-application-project.html):  
-  A multi-channel video communication platform enhanced with **emotion detection** and **diarization prompts**.  
-  This project leverages **GPT-powered NLP models** and **cloud-based scalability** with MLOps pipelines.
+**Tools:** PyTorch · Hugging Face Transformers · Docker · Azure · MLflow · <HPC tools you use>
 
-- [**Privacy-Aware Perception System for Robotics**](https://baekcheolkim.github.io/docs/2portfolio/3Privacy-Aware-Perception-System-for-Robotics.html):
-  We propose an **End-to-End Human-Head Localisation via Body-Only Detection** model
+**Education:** M. Machine Learning & Computer Vision, ANU (2023–2025)
 
----
-
-## Education & Learning
-- **M.Machine Learning & Computer Vision**, ANU (2023–2025)  
-- **Key Coursework:** Machine Learning, Robotics, Deep Learning for CV  
----
-<!---
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaekCheolKim&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekCheolKim&theme=tokyonight" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekCheolKim&layout=compact&theme=tokyonight" alt="Top Languages">
-</div>
-
----
---->
-
-## Resume
-
-You can view or download my full resume [here](https://drive.google.com/file/d/1ml3fFEnWo2E8A6e2-dM_LiHaZ-RHzF7c/view?usp=drive_link).
+[Blog](https://baekcheolkim.github.io/) · [LinkedIn](https://www.linkedin.com/in/baekcheolkim/) · [Resume](<refreshed link>)
